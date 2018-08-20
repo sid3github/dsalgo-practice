@@ -34,6 +34,23 @@
 // console.log(array);
 
 
+// Armstrong number.
+// function data(n){
+//     var result = false;
+//     var a = n;
+//     var b = n.toSring().length;
+//     var sum = 0;
+
+//     while(n > 0){
+//         var c = n % 10;
+//         sum = sum + Math.pow(c,b);
+
+//         n = Math.floor(n/10);
+//  }
+//  result = sum == a;
+//  return result;
+// }
+
 
 
 
